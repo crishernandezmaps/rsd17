@@ -1,0 +1,24 @@
+{
+  "name": "rsd17",
+  "version": "1.0.0",
+  "description": "streaming #rsd17 tweets",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "nodejs",
+    "app",
+    "twitter"
+  ],
+  "author": "cris hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "twit": "^2.2.5"
+  }
+}
