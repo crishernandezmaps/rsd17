@@ -1,0 +1,76 @@
+"  1. ""date"""
+
+	Type of data:          DateTime
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2018-04-21 20:17:00
+	Largest value:         2018-04-22 20:17:00
+	Most common values:    2018-04-22 20:17:00 (29729x)
+	                       2018-04-21 20:17:00 (1151x)
+
+"  2. ""text"""
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         17814
+	Longest value:         155 characters
+	Most common values:    RT @LittleMix: 👀 Who got themselves a limited edition vinyl of #GloryDays today? Its so pretty!!!! 💕🌸📀🎀 We wanna see your pics! 📸…  (1316x)
+	                       RT @recordstoreday: HAPPY RECORD STORE DAY! #RSD17 https://t.co/t8GSXcXUzK (743x)
+	                       RT @PaulMcCartney: Long live record stores and Record Store Day! #RSD17 https://t.co/A7ybGR2KpT (484x)
+	                       RT @altclassic: Happy #RSD17 While you're digging through the racks today
+	                       RT @brian_bilston: It's the 10th Record Store Day today so I'll be tweeting music-related poems all day - beginning with this quasi-re…  (279x)
+
+"  3. ""user"""
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         19666
+	Longest value:         15 characters
+	Most common values:    wrong_score (136x)
+	                       PiccadillyRecs (91x)
+	                       DavidsMusicLGC (87x)
+	                       RSDUK (75x)
+	                       w_zevon (71x)
+
+"  4. ""followers"""
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         6334
+	Smallest value:        0
+	Largest value:         5
+	Sum:                   266
+	Mean:                  8
+	Median:                720
+	StDev:                 95
+	Most common values:    1 (194x)
+	                       0 (100x)
+	                       17 (61x)
+	                       33 (60x)
+	                       72 (54x)
+
+"  5. ""location"""
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         11089
+	Longest value:         135 characters
+	Most common values:    London (774x)
+	                       London
+	                       United Kingdom (389x)
+	                       UK (386x)
+	                       Manchester
+
+"  6. ""place"""
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         701
+	Longest value:         59 characters
+	Most common values:    date (29076x)
+	                       Phoenix
+	                       London
+	                       Chicago
+	                       Huntington Beach
+
+Row count: 30880
